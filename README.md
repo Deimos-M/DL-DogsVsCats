@@ -1,5 +1,5 @@
 # DogsVsCats
-This repository consist of three different types of technique that can be used for image classification task by using very little amount of dataset. These models are developed in such a way that they can distinguish between images , in this particular case i made a binary image classifier to diffrentiate between images of cats and dogs. The techniques that are used here are :-
+This repository consist of three different types of technique that can be used for image classification task by using very little amount of dataset. These models are developed in such a way that they can distinguish between images , in this particular case i made a binary image classifier to differentiate between images of cats and dogs. The techniques that are used here are :-
 
 * 1st_convNet.ipynb :- Training a small network from scratch (as a baseline model).
 * 2nd_convNet.ipynb :- Using the bottleneck features of a pre-trained network.
