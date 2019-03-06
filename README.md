@@ -10,7 +10,7 @@ This repository consist of three different types of technique that can be used f
 
 ## Dataset :
 Dataset is available <a href ="https://www.kaggle.com/c/dogs-vs-cats/data">Over here</a>. It is a big dataset so sample out only 1000 images of each class(dog and cat) for training and about 300 images for validation . Store these images in the following manner :-
-![title](img3.jpeg)
+![title](img3.PNG)
 * A directory must contain one subdirectory per class where each subdirectory will be treated as a different class, so here label of an image is set in the form of directory name. 
 * Images in a directory will be consider to have label as the name of that directory that they are stored in .
 
